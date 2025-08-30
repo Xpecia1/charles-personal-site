@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 24 24" width="100%">
+<g clip-path="url(#clip0_0_842)" id="Frame">
+<path d="M12 12C12 9.7875 13.8 7.9875 16.0125 7.9875C18.225 7.9875 20.025 9.7875 20.025 12C20.025 14.2125 18.225 16.0125 16.0125 16.0125C13.8 16.0125 12 14.2125 12 12Z" fill="var(--fill-0, #1ABCFE)" id="Vector"/>
+<path d="M4.0125 19.9875C4.0125 17.775 5.8125 15.975 8.025 15.975H12V19.9875C12 22.2 10.2 24 7.9875 24C5.775 24 4.0125 22.2 4.0125 19.9875Z" fill="var(--fill-0, #0ACF83)" id="Vector_2"/>
+<path d="M12 0V7.9875H16.0125C18.225 7.9875 20.025 6.1875 20.025 3.975C20.025 1.7625 18.225 0 16.0125 0H12Z" fill="var(--fill-0, #FF7262)" id="Vector_3"/>
+<path d="M4.0125 4.0125C4.0125 6.225 5.8125 8.025 8.025 8.025H12V0H7.9875C5.775 0 4.0125 1.8 4.0125 4.0125Z" fill="var(--fill-0, #F24E1E)" id="Vector_4"/>
+<path d="M4.0125 12C4.0125 14.2125 5.8125 16.0125 8.025 16.0125H12V7.9875H7.9875C5.775 7.9875 4.0125 9.7875 4.0125 12Z" fill="var(--fill-0, #A259FF)" id="Vector_5"/>
+</g>
+<defs>
+<clipPath id="clip0_0_842">
+<rect fill="white" height="24" width="24"/>
+</clipPath>
+</defs>
+</svg>
